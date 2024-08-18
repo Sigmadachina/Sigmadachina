@@ -1,16 +1,16 @@
-## Hi there 👋
+***boa vindas ao meu perfil
 
-<!--
-**Sigmadachina/Sigmadachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é pietro siervi 
 
-Here are some ideas to get you started:
+estou estudando na [alura;](https://www.alura.com.br)
+estou desenvolvendo na linguagem javascript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*** você pode entrar em contato comigo 📩 
+
+siervirogeri8@gmail.com
+
+pietr0xz_
+
+![](![image](https://github.com/user-attachments/assets/d38f1ccc-dedc-4401-b7e8-d7878f14bb37)
+)
